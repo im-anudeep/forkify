@@ -1,0 +1,22 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Vanilla Js frontend design for Recipe shopping list app. Using modern advanced Js concepts of es6 and further with babel and webpack tooling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-anudeep/forkify.git"
+  },
+  "author": "Anudeep Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/im-anudeep/forkify/issues"
+  },
+  "homepage": "https://github.com/im-anudeep/forkify#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1"
+  }
+}
